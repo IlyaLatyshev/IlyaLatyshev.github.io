@@ -1,0 +1,20 @@
+.nav-bg-color {
+	background: #353b4a;
+}#nav-center-logo-menu-btn {
+    background: transparent;
+}#nav-center-logo-menu-btn .nav-bg {
+	background: #353b4a;
+	opacity: 1;
+}#header-slogan-text-btn {
+	background: #222222;
+}
+
+#header-slogan-text-btn .bg {
+	background-image: url('https://avatars.mds.yandex.net/get-pdb/236760/65c19c3d-70aa-4e04-8b2b-f31b57baa05b/s1200?webp=false');
+	background-size: cover;
+	-webkit-background-size: cover;
+	background-repeat: no-repeat;
+	-webkit-background-repeat: no-repeat;
+	background-position: center center;
+	opacity: 0.55;
+}

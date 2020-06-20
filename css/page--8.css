@@ -1,0 +1,36 @@
+
+.nav-bg-color {
+	background: #353b4a;
+}
+
+#nav-center-logo-menu-btn .nav-bg {
+	background: #353b4a;
+	opacity: 1;
+}
+#nav-fluid-center-logo-menu-btn {
+    background: transparent;
+}
+
+#nav-fluid-center-logo-menu-btn .nav-bg {
+    background: linear-gradient(135deg, #00c0ff, #00e9ff);
+    background: -webkit-linear-gradient(315deg, #00c0ff, #00e9ff);
+}
+#spec-inner-page-2 {
+	background: #8b909c;
+}
+/*----------------------------------------------------------------------------------------
+										WIDGET STYLES
+----------------------------------------------------------------------------------------*/
+
+.widget {
+    margin-bottom: 50px;
+}
+
+.widget ul.post-list>li{
+    margin-bottom: 20px;
+}
+
+.widget .post-list .post-desc{
+    padding-top: 5px;
+    opacity: 0.7;
+}
